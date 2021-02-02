@@ -5,3 +5,8 @@ html, body {
 div {
     display: unset;
 }
+
+h1 {
+    font-size: 20px;
+    font-family: segoe print;
+}
